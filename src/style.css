@@ -1,0 +1,19 @@
+body {
+  font-family: system-ui;
+  background : #f06d06;
+  color: blak;
+  text-align: center;
+  font-style:SANS-SERIF;
+}
+.width{
+  width:500px;
+  height:400px;
+  
+}
+.map{
+  border: 4px solid black
+}
+.width2{
+  width:600px;
+  height:500px;
+}
